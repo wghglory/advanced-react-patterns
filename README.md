@@ -144,7 +144,7 @@ Each exercise has comments in it to help you get through the exercise. These fun
 emoji characters are here to help you.
 
 - **Kody the Koala** 🐨 will tell you when there's something specific you should
-  do version
+  do
 - **Marty the Money Bag** 💰 will give you specific tips (and sometimes code)
   along the way
 - **Hannah the Hundred** 💯 will give you extra challenges you can do if you
@@ -212,6 +212,13 @@ Thanks goes to these wonderful people
     <td align="center"><a href="https://github.com/ph08n1x"><img src="https://avatars.githubusercontent.com/u/4249732?v=4?s=100" width="100px;" alt=""/><br /><sub><b>ph08n1x</b></sub></a><br /><a href="https://github.com/kentcdodds/advanced-react-patterns/commits?author=ph08n1x" title="Documentation">📖</a></td>
     <td align="center"><a href="https://www.suhas010.com"><img src="https://avatars.githubusercontent.com/u/8597576?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Suhas R More</b></sub></a><br /><a href="https://github.com/kentcdodds/advanced-react-patterns/commits?author=Suhas010" title="Code">💻</a></td>
     <td align="center"><a href="https://github.com/0xnoob"><img src="https://avatars.githubusercontent.com/u/49793844?v=4?s=100" width="100px;" alt=""/><br /><sub><b>0xnoob</b></sub></a><br /><a href="https://github.com/kentcdodds/advanced-react-patterns/commits?author=0xnoob" title="Code">💻</a></td>
+    <td align="center"><a href="http://pavlos.dev"><img src="https://avatars.githubusercontent.com/u/100233?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Pavlos Vinieratos</b></sub></a><br /><a href="https://github.com/kentcdodds/advanced-react-patterns/commits?author=pvinis" title="Documentation">📖</a></td>
+    <td align="center"><a href="https://github.com/infoxicator"><img src="https://avatars.githubusercontent.com/u/17012976?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Ruben Casas</b></sub></a><br /><a href="https://github.com/kentcdodds/advanced-react-patterns/commits?author=infoxicator" title="Code">💻</a> <a href="https://github.com/kentcdodds/advanced-react-patterns/commits?author=infoxicator" title="Documentation">📖</a></td>
+    <td align="center"><a href="https://github.com/marioleed"><img src="https://avatars.githubusercontent.com/u/1763448?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Mario Sannum</b></sub></a><br /><a href="https://github.com/kentcdodds/advanced-react-patterns/commits?author=marioleed" title="Code">💻</a></td>
+  </tr>
+  <tr>
+    <td align="center"><a href="https://wrongabhishek.com"><img src="https://avatars.githubusercontent.com/u/47311875?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Abhishek Rawat</b></sub></a><br /><a href="https://github.com/kentcdodds/advanced-react-patterns/commits?author=AbePlays" title="Documentation">📖</a></td>
+    <td align="center"><a href="http://fullchee.com"><img src="https://avatars.githubusercontent.com/u/11246258?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Fullchee Zhang</b></sub></a><br /><a href="https://github.com/kentcdodds/advanced-react-patterns/commits?author=Fullchee" title="Documentation">📖</a></td>
   </tr>
 </table>
 
